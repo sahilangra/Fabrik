@@ -1,0 +1,26 @@
+<annotation>
+	<folder>curated_img</folder>
+	<filename>IMG_20200226_173237.jpg</filename>
+	<path>C:\Users\sahil angra\Desktop\Wysa\images\curated_img\IMG_20200226_173237.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>connector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2008</xmin>
+			<ymin>709</ymin>
+			<xmax>2466</xmax>
+			<ymax>1170</ymax>
+		</bndbox>
+	</object>
+</annotation>
